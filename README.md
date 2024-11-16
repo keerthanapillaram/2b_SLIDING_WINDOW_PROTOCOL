@@ -1,4 +1,6 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
+## Name : Keerthana P 
+## Register number : 212223240069
 ## AIM
 To write a program to implement sliding window protocol
 ## ALGORITHM:
